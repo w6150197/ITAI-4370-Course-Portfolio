@@ -19,6 +19,7 @@ This living portfolio documents my learning from telecommunications fundamentals
 | 9 | [Sustainable AI and Green Communications](modules/module-09.md) |
 | 10 | [Advanced AI Applications in Next-Generation Networks](modules/module-10.md) |
 | 11 | [6G Vision and AI-Native Networks](modules/module-11.md) |
+| 13 | [Ethical AI and Future Trends Expanded — Assignment 4](modules/module-13.md) |
 
 ## Reflective essays
 
