@@ -1,3 +1,5 @@
+[A03_ITAI4370_AnnetteBazan.pdf](https://github.com/user-attachments/files/34652718/A03_ITAI4370_AnnetteBazan.pdf)
+[Lab3_AnnetteBazan_ITAI4370.pdf](https://github.com/user-attachments/files/34652716/Lab3_AnnetteBazan_ITAI4370.pdf)
 # Module 3: AI and Machine Learning Fundamentals for Telecommunications
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
