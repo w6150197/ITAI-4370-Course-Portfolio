@@ -21,14 +21,11 @@ One of the most important ideas in this module is **human-in-the-loop oversight*
 
 This connects to earlier work in telecommunications, where I used AI and simulations to analyze network traffic, resource allocation, and performance. Ethical development means evaluating not just how well a system performs but also how it affects the people using it.
 
-## Assignment evidence — upload later
-
-**Planned file:** `Assignment_4_Ethical_AI_Annette.pdf`
-
-**Status:** PDF pending upload. When I upload my coursework files, I will place this PDF in the `modules/` folder alongside this page. The file link can then be added here.
 
 ## Source
 
 Instructor-provided *Module 13: Ethical AI and Future Trends Expanded* lecture (27 slides), covering ethics principles, IEEE, OECD, UNESCO, EU AI governance, case studies, and future trends.
 
-**AI use statement:** ChatGPT assisted with drafting and organization; I will review the personal reflections and final answers before submitting.
+## Assignment evidence 
+[Assignment_4_Ethical_AI_Annette.pdf](https://github.com/user-attachments/files/34652762/Assignment_4_Ethical_AI_Annette.pdf)
+
