@@ -1,3 +1,5 @@
+[Laboratory 02_ITAI4370_AnnetteBazan.pdf](https://github.com/user-attachments/files/34652711/Laboratory.02_ITAI4370_AnnetteBazan.pdf)
+[Assignment02_AnnetteBazan_ITAI4370.docx](https://github.com/user-attachments/files/34652701/Assignment02_AnnetteBazan_ITAI4370.docx)
 # Module 2: Network Architecture and Wireless Basics
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
