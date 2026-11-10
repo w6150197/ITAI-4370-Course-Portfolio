@@ -1,3 +1,4 @@
+[LAB1_Annette_Bazan_ITAI4370.pdf](https://github.com/user-attachments/files/34652660/LAB1_Annette_Bazan_ITAI4370.pdf)
 # Module 1: Telecommunications Fundamentals
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
