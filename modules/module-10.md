@@ -1,7 +1,8 @@
+[Midterm_ITAI 4370_ABazan.pdf](https://github.com/user-attachments/files/34652803/Midterm_ITAI.4370_ABazan.pdf)
 # Module 10: Advanced AI Applications in Next-Generation Networks
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
-**Student:** Annette Bazan
+**Student:** Annette 
 
 ## Selected work
 Midterm: SimPy, Mesa and predictive routing
@@ -15,10 +16,6 @@ SimPy: 10 packets completed, 10.52 s simulation time, 1.66 s mean latency, 0.95 
 ## Results and interpretation
 Learned to diagnose bottlenecks and distinguish route prediction from implemented packet rerouting.
 
-## Supporting artifact
-Midterm_ITAI 4370_ABazan.ipynb
-
-[Open associated Google Colab notebook](https://colab.research.google.com/drive/1UqpHdqTTA9b9lHX9D9X8kabwWUCnV7xh)
 
 ## Reflection
 This module helped me build on the preceding topics and better understand how telecommunications engineering and AI methods connect. I can explain the purpose of the methods used, interpret the results that were recorded, and identify limitations that would need attention before operational deployment.
