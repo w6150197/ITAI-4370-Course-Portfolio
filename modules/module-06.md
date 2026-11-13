@@ -1,3 +1,4 @@
+
 # Module 6: AI for Network Optimization and Management
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
@@ -16,7 +17,7 @@ Generated 8,760 synthetic hourly observations. Mean traffic was 167.354 Mbps and
 Learned how traffic trends and seasonality inform capacity planning. The provided lab evidence did not establish a final ARIMA forecast error.
 
 ## Supporting artifact
-Lab04_ITAI4370_ABazan.pdf
+[Lab04_ITAI4370_ABazan.pdf](https://github.com/user-attachments/files/34775002/Lab04_ITAI4370_ABazan.pdf)
 
 [Open associated Google Colab notebook](https://colab.research.google.com/drive/1rkcmMOf90WU2AhEumi1ipuOspl0aGI8u)
 
