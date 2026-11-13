@@ -19,6 +19,10 @@ Learned accuracy/size/latency tradeoffs. Quantized 0.5 ms latency was an estimat
 [Lab05_Annette_ITAI4370.pdf](https://github.com/user-attachments/files/34775012/Lab05_Annette_ITAI4370.pdf)
 
 [Open associated Google Colab notebook](https://colab.research.google.com/drive/1Dxj9aJDJ_ssp2hatIgSSYD1OpTC7KoKQ)
+Two articles used to look through and identify algorithms.
+[BrainyEdge.pdf](https://github.com/user-attachments/files/34775073/BrainyEdge.pdf)
+[AI Article.pdf](https://github.com/user-attachments/files/34775072/AI.Article.pdf)
+
 
 ## Reflection
 This module helped me build on the preceding topics and better understand how telecommunications engineering and AI methods connect. I can explain the purpose of the methods used, interpret the results that were recorded, and identify limitations that would need attention before operational deployment.
