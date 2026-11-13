@@ -15,8 +15,6 @@ Worked with a network intrusion-detection workflow involving preprocessing, clas
 ## Results and interpretation
 Learned why precision, recall, false positives, and explainability matter in security operations.
 
-## Supporting artifact
-Module 8 lecture slides
 
 ## Reflection
 This module helped me build on the preceding topics and better understand how telecommunications engineering and AI methods connect. I can explain the purpose of the methods used, interpret the results that were recorded, and identify limitations that would need attention before operational deployment.
