@@ -16,11 +16,6 @@ Worked with a network intrusion-detection workflow involving preprocessing, clas
 
 
 
-## Study notes and assignment evidence
-[Cybersecurity: Network Threats & Attack Memory Tricks](module-08-cybersecurity-study-notes.md)
-
-I organized nine cybersecurity threats with definitions, technical examples, movie and story analogies, memory tricks, and accuracy notes. This study guide helped me distinguish passive interception, communication-path attacks, denial-of-service techniques, fake cellular infrastructure, and compromises involving protocols, firmware, or trusted supply chains.
-
 ## Results and interpretation
 Learned why precision, recall, false positives, and explainability matter in security operations.
 
