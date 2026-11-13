@@ -1,5 +1,3 @@
-[Laboratory 02_ITAI4370_AnnetteBazan.pdf](https://github.com/user-attachments/files/34652711/Laboratory.02_ITAI4370_AnnetteBazan.pdf)
-[Assignment02_AnnetteBazan_ITAI4370.docx](https://github.com/user-attachments/files/34652701/Assignment02_AnnetteBazan_ITAI4370.docx)
 # Module 2: Network Architecture and Wireless Basics
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
@@ -18,7 +16,8 @@ Simulated free-space path loss at 2.4 GHz over 0.1–20 km, producing an increas
 Learned to connect theoretical propagation losses with network packet observations.
 
 ## Supporting artifact
-Laboratory 02_ITAI4370_AnnetteBazan.ipynb
+[Laboratory 02_ITAI4370_AnnetteBazan.pdf](https://github.com/user-attachments/files/34652711/Laboratory.02_ITAI4370_AnnetteBazan.pdf)
+[Assignment02_AnnetteBazan_ITAI4370.docx](https://github.com/user-attachments/files/34652701/Assignment02_AnnetteBazan_ITAI4370.docx)
 
 ## Reflection
 This module helped me build on the preceding topics and better understand how telecommunications engineering and AI methods connect. I can explain the purpose of the methods used, interpret the results that were recorded, and identify limitations that would need attention before operational deployment.
