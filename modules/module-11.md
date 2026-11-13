@@ -9,6 +9,11 @@ Reviewed 6G goals of 1 Tbps peak data rate, 0.1 ms latency, and 10 million devic
 ## Methods, tools, and work completed
 Completed a 16-question quiz with a recorded score of 15/16 (93.75%) in 11:17. Questions 12 and 13 repeated the same federated-learning statement; one was marked wrong despite the same answer. I notified the professor, who said he would correct it.
 
+## QUIZ
+
+[ITAI_4370_6G_AI_Networks_Quiz_Results.pdf](https://github.com/user-attachments/files/34775355/ITAI_4370_6G_AI_Networks_Quiz_Results.pdf)
+
+
 ## Results and interpretation
 Learned that federated learning exchanges model information while keeping raw training data local; 6G is a vision with proposed performance targets, not a deployed guaranteed specification.
 
