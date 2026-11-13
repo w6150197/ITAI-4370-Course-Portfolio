@@ -16,8 +16,6 @@ Modeled three slices with priorities URLLC=3, eMBB=2, and mMTC=1 across 270 conn
 Distinguished weighted allocation logic from a trained AI optimizer.
 
 ## Supporting artifact
-[Lab04_ITAI4370_ABazan.pdf](https://github.com/user-attachments/files/34774903/Lab04_ITAI4370_ABazan.pdf)
-
 [04_Exercise_ITAI4370](https://colab.research.google.com/drive/16Q3cLm41RFcYw0kW3ZVwy3uHTLK6-_Q8)
 
 ## Reflection
