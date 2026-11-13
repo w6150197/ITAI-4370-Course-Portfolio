@@ -12,6 +12,10 @@ Reviewed telecom security threats, intrusion detection, supervised and unsupervi
 ## Methods, tools, and work completed
 Worked with a network intrusion-detection workflow involving preprocessing, classification, and anomaly detection. The course activity addressed Random Forest, SVM, Isolation Forest, and related evaluation concepts. Any illustrative synthetic-data results are separate from verified classroom measurements.
 
+## Notes
+
+
+
 ## Results and interpretation
 Learned why precision, recall, false positives, and explainability matter in security operations.
 
