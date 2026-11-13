@@ -13,6 +13,10 @@ Integrated discrete-event simulation, agent-based modeling, and machine learning
 ## Methods, tools, and work completed
 SimPy: 10 packets completed, 10.52 s simulation time, 1.66 s mean latency, 0.95 packets/s throughput. Mesa: 15 completed packets, 0 congestion and rerouting events, with 60 waiting at R1; the output displayed 30 steps despite a 15-iteration loop. Regression test MSE: A 15.55, B 23.11, C 15.99; predicted route B lowest at time 110 (52.05).
 
+## MIDTERM
+[Midterm_ITAI 4370_ABazan.pdf](https://github.com/user-attachments/files/34775230/Midterm_ITAI.4370_ABazan.pdf)
+
+
 ## Results and interpretation
 Learned to diagnose bottlenecks and distinguish route prediction from implemented packet rerouting.
 
