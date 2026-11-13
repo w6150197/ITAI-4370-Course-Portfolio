@@ -16,9 +16,9 @@ Modeled three slices with priorities URLLC=3, eMBB=2, and mMTC=1 across 270 conn
 Distinguished weighted allocation logic from a trained AI optimizer.
 
 ## Supporting artifact
-04_Exercise_ITAI4370_ABazan.ipynb
+[Lab04_ITAI4370_ABazan.pdf](https://github.com/user-attachments/files/34774903/Lab04_ITAI4370_ABazan.pdf)
 
-[Open associated Google Colab notebook](https://colab.research.google.com/drive/16Q3cLm41RFcYw0kW3ZVwy3uHTLK6-_Q8)
+[04_Exercise_ITAI4370](https://colab.research.google.com/drive/16Q3cLm41RFcYw0kW3ZVwy3uHTLK6-_Q8)
 
 ## Reflection
 This module helped me build on the preceding topics and better understand how telecommunications engineering and AI methods connect. I can explain the purpose of the methods used, interpret the results that were recorded, and identify limitations that would need attention before operational deployment.
