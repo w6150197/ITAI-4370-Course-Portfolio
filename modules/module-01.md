@@ -1,4 +1,3 @@
-[LAB1_Annette_Bazan_ITAI4370.pdf](https://github.com/user-attachments/files/34652660/LAB1_Annette_Bazan_ITAI4370.pdf)
 # Module 1: Telecommunications Fundamentals
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
@@ -17,7 +16,9 @@ Implemented a BPSK signal simulation in Google Colab with binary data, carrier m
 The lab connected abstract communication theory with observable signals and showed why noise and receiver decisions matter.
 
 ## Supporting artifact
-LAB1_Annette_Bazan_ITAI4370.pdf
+[LAB1_Annette_Bazan_ITAI4370.pdf](https://github.com/user-attachments/files/34652660/LAB1_Annette_Bazan_ITAI4370.pdf)
+[Assignment01_Annette_Bazan_ITAI4370.pdf](https://github.com/user-attachments/files/34774932/Assignment01_Annette_Bazan_ITAI4370.pdf)
+
 
 ## Reflection
 This module helped me build on the preceding topics and better understand how telecommunications engineering and AI methods connect. I can explain the purpose of the methods used, interpret the results that were recorded, and identify limitations that would need attention before operational deployment.
