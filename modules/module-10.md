@@ -1,4 +1,3 @@
-[Midterm_ITAI 4370_ABazan.pdf](https://github.com/user-attachments/files/34652803/Midterm_ITAI.4370_ABazan.pdf)
 # Module 10: Advanced AI Applications in Next-Generation Networks
 
 **Course:** ITAI 4370 — 5/6G Communications and O-RAN Networks  
