@@ -16,7 +16,7 @@ Compared TensorFlow/Keras models on synthetic 3-class sensor data: baseline accu
 Learned accuracy/size/latency tradeoffs. Quantized 0.5 ms latency was an estimate, not a device benchmark; the smaller models were not demonstrated as formal pruning or knowledge distillation.
 
 ## Supporting artifact
-Lab05_Annette_ITAI4370.pdf
+[Lab05_Annette_ITAI4370.pdf](https://github.com/user-attachments/files/34775012/Lab05_Annette_ITAI4370.pdf)
 
 [Open associated Google Colab notebook](https://colab.research.google.com/drive/1Dxj9aJDJ_ssp2hatIgSSYD1OpTC7KoKQ)
 
